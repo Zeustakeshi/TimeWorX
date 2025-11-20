@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "TimeWorX",
+            "database": "timeworx",
+            "username": "root",
+            "password": "giahuy"
+        }
+    ],
+    "idf.pythonInstallPath": "C:\\Users\\Asus\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
+}
